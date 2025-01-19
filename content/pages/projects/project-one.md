@@ -13,12 +13,6 @@ media:
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
-featuredImage:
-  type: ImageBlock
-  url: /images/classification.png
-  altText: ''
-  caption: ''
-  elementId: ''
 ---
 **Project Overview**
 The Skin Cancer Classification Web App is a full-stack solution designed to assist in early detection and classification of skin cancer variants. The app integrates cutting-edge deep learning models with an intuitive user interface, making it a powerful tool for medical professionals and researchers.
