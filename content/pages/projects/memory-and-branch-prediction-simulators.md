@@ -16,7 +16,7 @@ media:
   type: ImageBlock
   url: /images/cache.jpg
   altText: Project image
-  caption: Caption of the image
+  caption: ''
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
