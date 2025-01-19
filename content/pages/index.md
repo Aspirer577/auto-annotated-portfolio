@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: "Hi There!\U0001F44B"
-    subtitle: ''
+    subtitle: >-
+      Crafting Innovative Software Solutions Across Development and Data
+      Science.
     styles:
       self:
         height: auto
