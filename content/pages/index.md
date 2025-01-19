@@ -49,10 +49,7 @@ sections:
     subtitle: >-
       Programming has always intrigued me with its endless possibilities to
       create and innovate. I enjoy solving complex problems and building
-      solutions that make an impact.With expertise in Python, Java, C#,
-      JavaScript, React, Node.js, and SQL, I am passionate about crafting
-      efficient software and exploring the intersection of web development, data
-      science, and machine learning.
+      solutions that make an impact.
     actions: []
     colors: colors-f
     backgroundSize: full
