@@ -4,8 +4,8 @@ title: Memory and Branch Prediction Simulators
 date: '2023-10-19'
 client: Awesome client
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Designed and implemented performance-optimizing simulators for memory
+  hierarchy and branch prediction.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
