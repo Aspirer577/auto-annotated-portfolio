@@ -34,7 +34,7 @@ sections:
         width: narrow
         padding:
           - pt-64
-          - pb-48
+          - pb-64
           - pl-4
           - pr-4
         alignItems: center
