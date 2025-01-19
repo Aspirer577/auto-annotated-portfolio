@@ -4,8 +4,11 @@ title: Game Development Projects
 date: '2022-08-19'
 client: Awesome client
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Designed and developed engaging video games, combining immersive gameplay
+  mechanics with advanced technologies. Leveraged 2D/3D animations, physics
+  systems, and AI-driven character behaviors to create dynamic and interactive
+  gaming experiences. Published multiple games on Google Play, showcasing
+  expertise in game design, development, and optimization.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
