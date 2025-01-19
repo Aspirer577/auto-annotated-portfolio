@@ -75,7 +75,7 @@
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
             "self": {
-                "width": "narrow",
+                "width": "wide",
                 "padding": [
                     "pt-3",
                     "pb-5",
