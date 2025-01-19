@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Skin Cancer Classification Web App
 colors: colors-a
-date: '2023-10-15'
+date: '2022-03-15'
 client: ''
 description: >-
   Developed a full-stack web application using Streamlit to predict skin cancer
