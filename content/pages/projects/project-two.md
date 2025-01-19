@@ -7,8 +7,10 @@ client: ''
 description: Performed sales trend analysis from 2000–2020 to guide publishing strategies.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project thumbnail image
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 media:
   type: ImageBlock
   url: /images/video-game.jpg
