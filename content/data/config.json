@@ -60,6 +60,16 @@
                 "label": "GitHub",
                 "url": "https://github.com/Ashish-1521",
                 "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "ashish.thatipalli@gmail.com",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "copyrightText": "",
