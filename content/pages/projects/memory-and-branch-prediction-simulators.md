@@ -9,7 +9,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/cache.jpg
-  altText: Project thumbnail image
+  altText: ''
   caption: ''
   elementId: ''
 media:
