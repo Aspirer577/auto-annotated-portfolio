@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Hi There!
+    title: 'Hi There! '
     subtitle: ''
     styles:
       self:
