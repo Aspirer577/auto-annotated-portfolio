@@ -129,9 +129,7 @@ sections:
     subtitle: ''
     title: Projects
   - type: HeroSection
-    title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: I am Ashish Thatipelli
     subtitle: ''
     actions: []
     colors: colors-f
