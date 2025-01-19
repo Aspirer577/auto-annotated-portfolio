@@ -47,7 +47,7 @@ sections:
       Science.
     media:
       type: ImageBlock
-      url: /images/pl.avif
+      url: /images/coding_vs_programming_1200x1200.webp
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
