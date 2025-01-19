@@ -20,7 +20,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Publications",
                 "altText": "",
                 "url": "/Publications",
                 "showIcon": false,
