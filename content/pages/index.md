@@ -71,6 +71,7 @@ sections:
         justifyContent: center
         flexDirection: row
         borderRadius: xx-small
+        borderStyle: solid
       title:
         textAlign: left
       subtitle:
