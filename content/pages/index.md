@@ -13,13 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    title: "Hello!\U0001F44B"
+    subtitle: ''
     styles:
       self:
         height: auto
@@ -30,9 +25,9 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-36
-          - pb-48
-          - pl-4
+          - pt-14
+          - pb-2
+          - pl-5
           - pr-4
         alignItems: center
         justifyContent: center
@@ -47,6 +42,76 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: ''
+  - type: HeroSection
+    title: I am Ashish Thatipelli
+    subtitle: ''
+    actions: []
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-2
+          - pb-3
+          - pl-5
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+        borderRadius: xx-small
+        borderStyle: solid
+      title:
+        textAlign: left
+        fontWeight: 400
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    text: >
+      Crafting Innovative Software Solutions Across Development and Data
+      Science.
+  - type: HeroSection
+    title: About me
+    subtitle: ''
+    actions: []
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-14
+          - pb-6
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    text: >
+      Programming has always intrigued me with its endless possibilities to
+      create and innovate. I enjoy solving complex problems and building
+      solutions that make an impact. 
+
+
+      With expertise in Python, Java, C#, JavaScript, React, Node.js, and SQL, I
+      am passionate about crafting efficient software and exploring the
+      intersection of web development, data science, and machine learning.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -61,8 +126,10 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
+      - content/pages/projects/memory-and-branch-prediction-simulators.md
+      - >-
+        content/pages/projects/3d-visualization-of-landfill-gas-emissions-using-unreal-engine.md
     styles:
       self:
         height: auto
@@ -73,7 +140,7 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
+          - pt-16
           - pb-24
           - pl-4
           - pr-4
@@ -84,113 +151,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
-  - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-  - type: ContactSection
-    colors: colors-f
-    backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
+    subtitle: ''
+    title: Projects
 ---

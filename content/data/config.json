@@ -10,34 +10,42 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
-            },
-            {
-                "type": "Link",
                 "label": "Projects",
                 "url": "/projects"
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
+                "label": "Resume",
+                "url": "https://drive.google.com/file/d/1uU_pI8VnuJPZw5GWLYQVV3sSqHmyVdDJ/view?usp=sharing",
+                "showIcon": true,
+                "icon": "arrowUpRight"
+            },
+            {
+                "type": "Link",
+                "label": "Publications",
+                "altText": "",
+                "url": "/Publications",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "altText": "GitHub",
+                "label": "GitHub",
+                "url": "https://github.com/Ashish-1521",
+                "icon": "github"
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://www.linkedin.com/in/ashish-thatipelli-211b5b1b3/",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
@@ -51,44 +59,37 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/ashish-thatipelli-211b5b1b3/",
                 "altText": ""
             },
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "url": "https://github.com/Ashish-1521",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Email",
+                "altText": "",
+                "url": "ashish.thatipalli@gmail.com",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
-            "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
-        },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "",
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-0",
+                    "pb-0",
+                    "pr-0",
+                    "pl-5"
+                ]
             }
         }
     }
