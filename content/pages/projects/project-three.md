@@ -15,7 +15,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-01-19 003337.png
   altText: ''
-  caption: Caption of the image
+  caption: ''
   elementId: ''
 ---
 
