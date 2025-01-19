@@ -71,6 +71,15 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    text: >
+      Programming has always intrigued me with its endless possibilities to
+      create and innovate. I enjoy solving complex problems and building
+      solutions that make an impact. 
+
+
+      With expertise in Python, Java, C#, JavaScript, React, Node.js, and SQL, I
+      am passionate about crafting efficient software and exploring the
+      intersection of web development, data science, and machine learning.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
