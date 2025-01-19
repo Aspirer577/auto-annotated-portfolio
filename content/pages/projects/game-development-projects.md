@@ -17,7 +17,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/gamedev.jpg
+  url: /images/gd.jpg
   altText: Project image
   caption: Caption of the image
   elementId: ''
