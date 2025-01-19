@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: "Hi There!\U0001F44B "
-    subtitle: ''
+    subtitle: I am Ashish Thatipelli
     styles:
       self:
         height: auto
