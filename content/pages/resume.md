@@ -3,7 +3,7 @@ type: PageLayout
 title: Resume
 sections:
   - type: CtaSection
-    title: Let's do this
+    title: ' Download Resume'
     text: ''
     actions:
       - type: Button
