@@ -42,9 +42,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >
-      Crafting Innovative Software Solutions Across Development and Data
-      Science.
+    text: ''
     media:
       type: ImageBlock
       url: /images/coding_vs_programming_1200x1200.webp
