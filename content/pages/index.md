@@ -79,6 +79,9 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    text: >
+      Crafting Innovative Software Solutions Across Development and Data
+      Science.
   - type: HeroSection
     title: About me
     subtitle: ''
