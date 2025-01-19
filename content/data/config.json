@@ -16,7 +16,8 @@
             {
                 "type": "Link",
                 "label": "Resume",
-                "url": ""
+                "url": "",
+                "showIcon": true
             },
             {
                 "type": "Link",
