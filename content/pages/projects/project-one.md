@@ -11,6 +11,12 @@ media:
   type: ImageBlock
   url: /images/bg1.jpg
   altText: Project image
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 **Project Overview**
 The Skin Cancer Classification Web App is a full-stack solution designed to assist in early detection and classification of skin cancer variants. The app integrates cutting-edge deep learning models with an intuitive user interface, making it a powerful tool for medical professionals and researchers.
