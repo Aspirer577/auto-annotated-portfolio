@@ -56,12 +56,6 @@ sections:
       Publication](https://www.irjmets.com/uploadedfiles/paper/issue_4_april_2022/21664/final/fin_irjmets1651296943.pdf)
 
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
