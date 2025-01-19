@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Game Development Projects
 date: '2022-08-19'
-client: Awesome client
+client: ''
 description: >-
   Designed and developed engaging video games, combining immersive gameplay
   mechanics with advanced technologies. Leveraged 2D/3D animations, physics
