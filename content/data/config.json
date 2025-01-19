@@ -17,6 +17,16 @@
                 "type": "Link",
                 "label": "Resume",
                 "url": "/resume"
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/Publications",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
