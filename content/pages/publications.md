@@ -10,11 +10,51 @@ sections:
       highlights a vision-based system that uses real-time hand gesture
       recognition for touch-free computer interaction, offering innovative
       applications in hygienic and accessibility-focused environments.
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      **Overview**
+
+      This publication introduces a virtual mouse system that leverages computer
+      vision techniques for touch-free human-computer interaction. The system
+      utilizes real-time hand gesture recognition to perform mouse operations
+      such as click, drag, and scroll, offering an innovative and hygienic
+      alternative to traditional input devices.
+
+
+      **Key Highlights**
+
+
+      *   **Technology Used:**
+
+          *   Implemented using Python and OpenCV for real-time image processing.
+
+          *   Utilized Haar cascades and contour detection for hand gesture recognition.
+
+      *   **Features:**
+
+          *   Supported functionalities like left-click, right-click, double-click, drag, and scroll using specific hand gestures.
+
+          *   Designed for a touch-free experience, enhancing usability in public or shared environments.
+
+      *   **Applications:**
+
+          *   Ideal for scenarios requiring minimal physical contact, such as healthcare settings, public kiosks, and educational environments.
+
+      **Published In**
+
+
+      *   **Journal:** International Research Journal of Modernization in
+      Engineering Technology and Science (IRJMETS)
+
+
+      *   **Date:** April 2022
+
+
+      *   **Paper ID:** IRJMETS40400115863
+
+
+      *   [Read
+      Publication](https://www.irjmets.com/uploadedfiles/paper/issue_4_april_2022/21664/final/fin_irjmets1651296943.pdf)
+
     actions: []
     media:
       type: ImageBlock
