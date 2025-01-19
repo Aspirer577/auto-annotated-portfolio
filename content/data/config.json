@@ -77,7 +77,7 @@
             "self": {
                 "width": "narrow",
                 "padding": [
-                    "pt-5",
+                    "pt-3",
                     "pb-5",
                     "pr-5",
                     "pl-5"
