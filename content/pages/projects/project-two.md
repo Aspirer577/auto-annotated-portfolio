@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Video Game Sales Analysis
-colors: colors-d
+colors: colors-a
 date: '2024-04-20'
 client: ''
 description: Performed sales trend analysis from 2000–2020 to guide publishing strategies.
