@@ -52,6 +52,33 @@ sections:
       caption: Caption of the image
       elementId: ''
   - type: HeroSection
+    title: I am Ashish Thatipelli
+    subtitle: ''
+    actions: []
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+  - type: HeroSection
     title: About me
     subtitle: ''
     actions: []
@@ -128,31 +155,4 @@ sections:
         justifyContent: flex-end
     subtitle: ''
     title: Projects
-  - type: HeroSection
-    title: I am Ashish Thatipelli
-    subtitle: ''
-    actions: []
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
 ---
