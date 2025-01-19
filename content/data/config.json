@@ -62,16 +62,6 @@
                 "altText": ""
             }
         ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "",
-            "phoneNumber": "",
-            "phoneAltText": "",
-            "email": "ashish.thatipalli@gmail.com",
-            "emailAltText": "My email",
-            "address": "",
-            "addressAltText": ""
-        },
         "copyrightText": "",
         "styles": {
             "self": {
