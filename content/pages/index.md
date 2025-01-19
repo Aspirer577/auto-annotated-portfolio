@@ -70,6 +70,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
+        borderRadius: xx-small
       title:
         textAlign: left
       subtitle:
