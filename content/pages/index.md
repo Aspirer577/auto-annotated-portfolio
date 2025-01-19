@@ -43,12 +43,6 @@ sections:
     type: HeroSection
     actions: []
     text: ''
-    media:
-      type: ImageBlock
-      url: /images/coding_vs_programming_1200x1200.webp
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - type: HeroSection
     title: I am Ashish Thatipelli
     subtitle: ''
