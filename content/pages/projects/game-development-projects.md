@@ -11,7 +11,7 @@ description: >-
   expertise in game design, development, and optimization.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/gamedev.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
