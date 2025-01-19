@@ -9,7 +9,7 @@ description: >-
   and C#.
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Screenshot 2025-01-19 003337.png
   altText: Project image
 featuredImage:
   type: ImageBlock
