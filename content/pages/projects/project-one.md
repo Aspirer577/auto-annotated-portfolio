@@ -14,7 +14,7 @@ media:
 featuredImage:
   type: ImageBlock
   url: /images/classification.png
-  altText: altText of the image
+  altText: ''
   caption: ''
   elementId: ''
 ---
