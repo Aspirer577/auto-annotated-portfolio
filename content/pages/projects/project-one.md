@@ -63,12 +63,3 @@ The Skin Cancer Classification Web App is a full-stack solution designed to assi
 
 4.  Results are displayed alongside confidence scores and visualization overlays.
 
-**Future Enhancements**
-
-*   Expand the model to classify additional skin conditions.
-
-*   Integrate with medical databases for a broader dataset.
-
-*   Enhance the app’s responsiveness for mobile devices.
-
-This project demonstrates how technology and deep learning can contribute to healthcare innovation.
