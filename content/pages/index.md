@@ -74,6 +74,7 @@ sections:
         borderStyle: solid
       title:
         textAlign: left
+        fontWeight: 400
       subtitle:
         textAlign: left
       text:
