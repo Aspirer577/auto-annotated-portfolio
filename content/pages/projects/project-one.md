@@ -4,7 +4,9 @@ title: Skin Cancer Classification Web App
 colors: colors-a
 date: '2022-03-15'
 client: ''
-description: ''
+description: >-
+  Developed a full-stack web application using Streamlit to predict skin cancer
+  variants with high accuracy, leveraging deep learning models like ResNet5
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
