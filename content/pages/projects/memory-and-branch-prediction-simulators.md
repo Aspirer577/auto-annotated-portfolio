@@ -8,7 +8,7 @@ description: >-
   hierarchy and branch prediction.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/cache.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
