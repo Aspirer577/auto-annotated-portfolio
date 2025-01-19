@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Skin Cancer Classification Web App
+title: Memory and Branch Prediction Simulators
 colors: colors-a
 date: '2022-03-15'
 client: ''
