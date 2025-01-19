@@ -15,7 +15,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/cache.jpg
-  altText: Project image
+  altText: ''
   caption: ''
   elementId: ''
 addTitleSuffix: true
