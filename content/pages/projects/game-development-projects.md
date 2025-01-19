@@ -11,7 +11,7 @@ description: >-
   expertise in game design, development, and optimization.
 featuredImage:
   type: ImageBlock
-  url: /images/gamedev.jpg
+  url: /images/gd.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
