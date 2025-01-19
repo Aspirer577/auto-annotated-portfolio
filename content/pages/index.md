@@ -46,10 +46,7 @@ sections:
     actions: []
   - type: HeroSection
     title: About me
-    subtitle: >-
-      Programming has always intrigued me with its endless possibilities to
-      create and innovate. I enjoy solving complex problems and building
-      solutions that make an impact.
+    subtitle: ''
     actions: []
     colors: colors-f
     backgroundSize: full
