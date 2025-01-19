@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Skin Cancer Classification Web App
 colors: colors-a
-date: '2021-10-15'
+date: '2022-03-15'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
