@@ -33,7 +33,7 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-28
+          - pt-48
           - pb-48
           - pl-4
           - pr-4
