@@ -31,3 +31,42 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+**Project Overview**
+This project leverages LIDAR point cloud data to create advanced 3D visualizations for modeling and monitoring landfill gas (LFG) emissions. Using a combination of Autodesk Recap, Global Mapper, and Unreal Engine, the project provides intuitive and interactive visual representations of environmental data.
+
+**Key Contributions**
+
+*   **LIDAR Data Processing:**
+
+    *   Processed raw LIDAR point cloud data to remove outliers and generate high-quality surface meshes in Autodesk Recap.
+
+    *   Enhanced the model by applying detailed textures created using Global Mapper.
+
+*   **Gas Emission Modeling:**
+
+    *   Designed a pipeline to import .csv data of gas concentrations and process it into a 3D model.
+
+    *   Incorporated red and green color gradients to represent varying concentration levels intuitively.
+
+*   **Advanced Visualization in Unreal Engine:**
+
+    *   Imported textured surface models and concentration data into Unreal Engine.
+
+    *   Applied the Niagara engine’s particle system to simulate atmospheric effects for real-time interaction and improved visual fidelity.
+
+**Technologies Used**
+
+*   **Data Processing Tools:** Autodesk Recap, Global Mapper
+
+*   **Visualization Engine:** Unreal Engine with Niagara Particle System
+
+*   **Data Formats:** LIDAR (.las), CSV/XLS
+
+**Highlights**
+
+*   Developed highly detailed 3D models for real-world landfill monitoring applications.
+
+*   Created visually engaging and interactive simulations for better decision-making and environmental assessment.
+
+*   Achieved real-time atmospheric effects to enhance the realism of the visualizations.
+
