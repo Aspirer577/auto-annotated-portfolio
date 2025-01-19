@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: "Hi There! \U0001F44B"
+    title: "Hi There!\U0001F44B"
     subtitle: ''
     styles:
       self:
