@@ -15,7 +15,7 @@ featuredImage:
   type: ImageBlock
   url: /images/classification.png
   altText: altText of the image
-  caption: Caption of the image
+  caption: ''
   elementId: ''
 ---
 **Project Overview**
