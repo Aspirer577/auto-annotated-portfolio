@@ -51,12 +51,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Contact",
                 "url": "ashishthatipelli19@gmail.com",
                 "altText": ""
