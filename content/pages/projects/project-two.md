@@ -4,10 +4,7 @@ title: Video Game Sales Analysis
 colors: colors-a
 date: '2024-04-20'
 client: ''
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: Performed sales trend analysis from 2000–2020 to guide publishing strategies.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
