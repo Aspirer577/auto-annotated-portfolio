@@ -24,7 +24,7 @@
                 "type": "Link",
                 "label": "Publications",
                 "altText": "",
-                "url": "/Publications",
+                "url": "/publications",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
