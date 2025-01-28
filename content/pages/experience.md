@@ -7,9 +7,11 @@ sections:
     variant: variant-a
     title: Professional Experience
     subtitle: ''
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: |+
+      ```
+      Printf("hello");
+      ```
+
     elementId: ''
     styles:
       self:
