@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Experience
+title: Professional Experience
 sections:
   - type: TextSection
     colors: colors-f
