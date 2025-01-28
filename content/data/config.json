@@ -22,9 +22,9 @@
             },
             {
                 "type": "Link",
-                "label": "Publications",
+                "label": "Learn more",
                 "altText": "",
-                "url": "/publications",
+                "url": "/Experience",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -32,9 +32,9 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Publications",
                 "altText": "",
-                "url": "/Experience",
+                "url": "/publications",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
