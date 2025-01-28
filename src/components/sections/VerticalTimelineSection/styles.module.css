@@ -1,0 +1,77 @@
+.timelineSection {
+    padding: 2rem;
+    background-color: #f9f9f9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.timelineTitle {
+    font-size: 1.75rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    color: #333;
+    text-align: center;
+}
+
+.timelineContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    max-width: 800px;
+}
+
+.timelineContainer::before {
+    content: "";
+    position: absolute;
+    left: 50%;
+    width: 4px;
+    background-color: #0073e6;
+    top: 0;
+    bottom: 0;
+    transform: translateX(-50%);
+}
+
+.timelineItem {
+    width: 45%;
+    padding: 1.5rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Alternating positioning */
+.timelineItem:nth-child(odd) {
+    align-self: flex-start;
+    text-align: left;
+}
+
+.timelineItem:nth-child(even) {
+    align-self: flex-end;
+    text-align: right;
+}
+
+/* Adding connecting dots */
+.timelineItem::before {
+    content: "";
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    background-color: #0073e6;
+    border-radius: 50%;
+    top: 20px;
+}
+
+.timelineItem:nth-child(odd)::before {
+    right: -16px;
+}
+
+.timelineItem:nth-child(even)::before {
+    left: -16px;
+}

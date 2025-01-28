@@ -65,6 +65,7 @@ const components = {
     QuoteSection: dynamic(() => import('./sections/QuoteSection')),
     SelectFormControl: dynamic(() => import('./molecules/FormBlock/SelectFormControl')),
     LabelsSection: dynamic(() => import('./sections/LabelsSection')),
+    VerticalTimelineSection: dynamic(() => import('./sections/VerticalTimelineSection')),
     TestimonialsSection: dynamic(() => import('./sections/TestimonialsSection')),
     TextareaFormControl: dynamic(() => import('./molecules/FormBlock/TextareaFormControl')),
     TextFormControl: dynamic(() => import('./molecules/FormBlock/TextFormControl')),
