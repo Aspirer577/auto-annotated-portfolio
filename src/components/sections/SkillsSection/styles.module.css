@@ -1,0 +1,35 @@
+.skillsSection {
+    padding: 2rem;
+    text-align: center;
+}
+
+.skillsTitle {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+    color: #ffffff;
+}
+
+.skillsContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
+
+.skillItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #272626;
+    padding: 1rem;
+    border-radius: 8px;
+    width: 100px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.skillIcon {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    color: #0073e6;
+}

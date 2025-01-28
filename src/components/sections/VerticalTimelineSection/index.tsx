@@ -2,10 +2,11 @@ import React from 'react';
 import styles from './styles.module.css';
 
 interface TimelineItem {
-    title: string;
-    company: string;
+    title: string;  // Company/School Name
+    subtitle: string;  // Designation/Course (New Field)
     date: string;
-    description: string;
+    description: string | string[];  // Handle both string & array formats
+    icon?: string;  // Optional Icon
 }
 
 interface VerticalTimelineProps {
@@ -20,18 +21,21 @@ const VerticalTimelineSection: React.FC<VerticalTimelineProps> = ({ title, items
             <div className={styles.timelineContainer}>
                 {items.map((item, index) => (
                     <div key={index} className={styles.timelineItem}>
-                        <h3>{item.title}</h3>
-                        <p className={styles.subtitle}>{item.company} | {item.date}</p>
-                        <ul>
-                            {Array.isArray(item.description) ? (
-                                item.description.map((point, i) => (
+                        <h5>
+                            {item.icon && <span className={styles.timelineIcon}>{item.icon}</span>}
+                            {item.title}
+                        </h5>
+                        <p className={styles.subtitle}>{item.subtitle} | {item.date}</p> {/* Updated */}
+                        <br />
+                        {Array.isArray(item.description) ? (
+                            <ul>
+                                {item.description.map((point, i) => (
                                     <li key={i}>{point.trim()}</li>
-                                ))
-                            ) : (
-                                <li>{item.description}</li>
-                            )}
-                        </ul>
-
+                                ))}
+                            </ul>
+                        ) : (
+                            <p>{item.description}</p>
+                        )}
                     </div>
                 ))}
             </div>
