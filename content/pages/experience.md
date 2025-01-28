@@ -7,11 +7,8 @@ sections:
     variant: variant-a
     title: Professional Experience
     subtitle: ''
-    text: |+
-      ```
-      Printf("hello");
-      ```
-
+    text: |
+      ``
     elementId: ''
     styles:
       self:
