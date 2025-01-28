@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Experience
+    title: Professional Experience
     subtitle: ''
     text: >-
       Start adding sections by clicking the + button on the page or through the
