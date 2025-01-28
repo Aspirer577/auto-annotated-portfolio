@@ -8,7 +8,7 @@ sections:
     title: Professional Experience
     subtitle: ''
     text: |
-      ``
+      ''
     elementId: ''
     styles:
       self:
@@ -26,6 +26,43 @@ sections:
         textAlign: left
       text:
         textAlign: left
+
+  - type: VerticalTimelineSection
+    title: Experience Timeline
+    items:
+      - title: Graduate Teaching Associate - Mobile Development
+        subtitle: University of Central Florida | Jan 2025 – Present
+        description: |
+          - Instructed two sections of Mobile Development with practical JavaScript assignments.
+          - Created course materials, including assignments, quizzes, and instructional videos.
+          - Delivered high-quality learning experiences using Webcourses@UCF.
+      - title: Other Personnel Services
+        subtitle: University of Central Florida | Dec 2023 – Apr 2024
+        description: |
+          - Processed LIDAR data for 3D visualization with Niagara Engine.
+          - Built pipelines to transform raw data into detailed meshes.
+          - Enhanced visualization for environmental analysis.
+      - title: Junior Game Developer
+        subtitle: GamezeniQ Technologies Pvt Ltd | Mar 2022 – Apr 2023
+        description: |
+          - Designed and developed four mobile games like Gun Master and Sniper Shooting.
+          - Collaborated with teams for optimization and improved user experience.
+          - Published games on Google Play with positive feedback.
+    colors: colors-b
+    elementId: 'experience-timeline'
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-24
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+
   - type: LabelsSection
     title: Skills
     subtitle: The section subtitle
